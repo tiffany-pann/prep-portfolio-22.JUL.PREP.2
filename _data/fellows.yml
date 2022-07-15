@@ -1,10 +1,12 @@
 - name: Will
   img: logo.jpg
   location: London, UK
+  page_name: will
 
 - name: Amanda
   img: amanda.jpg
   location: New York City, USA
+  page_name: Amanda
 
 - name: Aaron
   img: aaron.jpg
