@@ -80,18 +80,19 @@
   coordinates:
     lat: 22.577230
     long: 88.317790
-    
-- name: Arunima Chaudhuri
-  image: Arunima.jpg
-  birth_date: May 30th, 2001
-  city: Kolkata
-  school: Government College of Engineering and Ceramic Technology
-  tech_skills: Java, C, Web development
-  hobbies: Dance, painting, travelling
-  github: https://github.com/tinniaru3005
-  linkedin: https://www.linkedin.com/in/arunima-chaudhuri-95217b194/
-  twitter: 
-  bio: I am a tech enthusiast. I love learning and exploring new things. I am currently a mentor at Open Source Hach and an MLH Fellow (Prep). I am a LiFT Scholarship Recipient. I love being a part of various communities and interacting with like-minded people. 
+
+- name: Tiffany Pan
+  image: Tiffany.jpg
+  birth_date: April 1st, 2003
+  city: New York City
+  school: Cornell University
+  tech_skills: Swift, Python
+  hobbies: Custom Mechanical Keyboards, Skateboarding
+  github: https://github.com/tiffany-pann
+  linkedin: https://www.linkedin.com/in/tiffany-pan-/
+  twitter: N/A
+  bio: Tiffany is an aspiring computer science major from New York City. She has most of her experience in Swift, and loves building apps that make the world go round. She is a rising sophomore and looks forward to growing her skills.
   coordinates:
-     lat : 22
-     lng: 88
+     lat: 40
+     lng: 74
+  username: tiffany-pann
