@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+- name: Will
+  img: logo.jpg
+  location: London, UK
+  page_name: will
+=======
 - name: Sahiba Khan
   img: assets/img/sahiba.png
   birth_date: 11 July 
@@ -14,10 +20,12 @@
   coordinates:
       lat: 27
       lng: 78
+>>>>>>> d835873c211400b98c5f04a9288d54e91f175ed2
 
 - name: Amanda
   img: amanda.jpg
   location: New York City, USA
+  page_name: Amanda
 
 - name: Aaron
   img: aaron.jpg
@@ -57,3 +65,18 @@
       twitter: https://twitter.com/clumsy_coder
       github: https://github.com/joshi-kaushal
       linkedin: https://www.linkedin.com/in/akhilesh-manda-7a9b661b8/
+
+- name: Reeju Bhattacharya
+  image: reeju.jpg
+  birth_date: May 27, 2002
+  city: Howrah
+  school: IIEST Shibpur
+  tech_skills: Java, Android(Kotlin)
+  hobbies: Reading, Watching Movies, Procrastinating 
+  github: https://github.com/reejuBhattacharya
+  linkedin: https://www.linkedin.com/in/reejubhattacharya/
+  twitter: 
+  bio: Hi, I am Reeju Bhattacharya. I am currently starting my junior year at IIEST. I love learning about new technologies and am eager to expand my skills to solve more real-world problems in the future.
+  coordinates:
+    lat: 22.577230
+    long: 88.317790
